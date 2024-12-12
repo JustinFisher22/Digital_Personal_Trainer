@@ -1,4 +1,4 @@
-# Personal_Trainer
+# Digital_Personal_Trainer
 
 With the New Year approaching many people are going to be looking to get fit and healthy, but the cost of personal trainers and customized fitness plans can be a significant barrier. This project aims to solve that problem by offering a Digital Personal Trainer—a smart, AI-powered solution to help individuals achieve their fitness goals without the hefty price tag.
 
