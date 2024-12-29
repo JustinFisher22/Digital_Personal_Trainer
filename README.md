@@ -1,3 +1,5 @@
+#CELEB-BOT 5000
+
 Overview
 
 This project implements a chatbot that provides personalized fitness recommendations, including workout plans, meal plans, and insights based on user preferences. It integrates Google Gemini for generating text recommendations, OpenAI DALL-E for creating visual representations, and machine learning (Random Forest) for additional predictions based on fitness data.
