@@ -1,4 +1,4 @@
-#CELEB-BOT 5000
+CELEB-BOT 5000
 
 Overview
 
