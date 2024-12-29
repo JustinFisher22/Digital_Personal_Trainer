@@ -1,8 +1,8 @@
-#Overview
+Overview
 
 This project implements a chatbot that provides personalized fitness recommendations, including workout plans, meal plans, and insights based on user preferences. It integrates Google Gemini for generating text recommendations, OpenAI DALL-E for creating visual representations, and machine learning (Random Forest) for additional predictions based on fitness data.
 
-##Features
+Features
 	1.	Personalized Fitness Recommendations:
 	•	Workout plans tailored to user fitness goals.
 	•	Meal plans optimized for fitness objectives.
@@ -16,7 +16,7 @@ This project implements a chatbot that provides personalized fitness recommendat
 	5.	Environment Configuration:
 	•	Seamless integration with .env files to manage API keys and configurations securely.
 
-##Prerequisites
+Prerequisites
 	1.	API Keys:
 	•	Google Gemini API key.
 	•	OpenAI API key.
@@ -32,7 +32,7 @@ pip install langchain-google-genai openai python-dotenv pandas scikit-learn
 	4.	Data:
 	•	A CSV file containing fitness data with Age, Gender, and Resting_BPM columns.
 
-##How to Use
+How to Use
 	1.	Clone the Repository:
 
 git clone <repository_url>
@@ -56,7 +56,7 @@ Execute the code in a Jupyter Notebook or Google Colab:
 	5.	Generate Visual Representations:
 	•	Workout and meal plans will be accompanied by AI-generated images.
 
-##Key Functions
+Key Functions
 
 1. User Input
 	•	get_user_preferences(): Collects fitness goals and celebrity preferences.
@@ -74,7 +74,7 @@ Execute the code in a Jupyter Notebook or Google Colab:
 5. Display Results
 	•	Combines textual recommendations and AI-generated visuals for a complete user experience.
 
-##Example Workflow
+Example Workflow
 	1.	Input:
 	•	User enters:
 	•	Fitness goal: “Build muscle.”
@@ -85,7 +85,7 @@ Execute the code in a Jupyter Notebook or Google Colab:
 	•	Visuals: AI-generated images of exercises and meals.
 	•	Insight: Based on resting BPM prediction, personalized advice on recovery.
 
-##File Structure
+File Structure
 
 .
 ├── fitness_chatbot.ipynb   # Main script
@@ -93,12 +93,14 @@ Execute the code in a Jupyter Notebook or Google Colab:
 ├── .env                    # API keys
 └── README.md               # Documentation
 
-##Future Enhancements
+Future Enhancements
 	•	Extend the ML model to include additional features like BMI and activity level.
 	•	Support for more advanced queries and multilingual capabilities.
 	•	Integration with fitness tracking devices.
 
-##Credits
+Credits
 	•	Google Gemini: For generating textual recommendations.
 	•	OpenAI DALL-E: For creating workout and meal visuals.
 	•	Scikit-learn: For machine learning predictions.
+ 	•	fitness_data.csv - Kaggle by Nadeem Majeed - Fitness Tracker Dataset
+Insights into Exercise Habit, Health Metric, and Fitness Level Across Individual
