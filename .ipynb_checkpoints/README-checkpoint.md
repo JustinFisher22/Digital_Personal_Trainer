@@ -106,3 +106,6 @@ Credits
 	•	Google Gemini: For generating textual recommendations.
 	•	OpenAI DALL-E: For creating workout and meal visuals.
 	•	Scikit-learn: For machine learning predictions.
+ 
+Kaggle Data Set
+Fitness Tracker Dataset By: Nadeem Majeed
