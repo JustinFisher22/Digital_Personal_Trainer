@@ -1,4 +1,4 @@
-To make your README file display headings and paragraphs properly, you need to use Markdown syntax, which README files typically support. Here’s how your content would look in Markdown format with proper headings and paragraphs:
+# Chat-Bot 5000
 
 # Overview
 
@@ -106,14 +106,3 @@ Credits
 	•	Google Gemini: For generating textual recommendations.
 	•	OpenAI DALL-E: For creating workout and meal visuals.
 	•	Scikit-learn: For machine learning predictions.
-
-### Key Changes:
-1. **Headings**: Used `#`, `##`, and `###` for section titles and subsections.
-2. **Bulleted Lists**: Used `-` for bullet points under features and lists.
-3. **Code Blocks**: Used triple backticks (```) for code and shell commands.
-4. **File Structure**: Used indented code block for the directory structure.
-
-When you save this as `README.md`, it will render nicely on GitHub or any Markdown viewer.
-
-
-Sent from my iPhone
