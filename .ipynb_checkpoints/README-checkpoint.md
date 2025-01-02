@@ -109,3 +109,10 @@ Credits
  
 Kaggle Data Set
 Fitness Tracker Dataset By: Nadeem Majeed
+
+Video Presentation:
+https://vimeo.com/1043521471?share=copy#t=0
+Voice by voice.ai “Nina Reed”
+Music: Universal 
+AI Generated Video of group:
+Virbo
